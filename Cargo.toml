@@ -1,0 +1,12 @@
+[package]
+name = "virtio-net_rs"
+version = "0.1.0"
+authors = ["joppich <joppich@bricknet.de>"]
+
+[dependencies]
+libc = "0.2"
+byteorder = "1"
+log = "0.4"
+
+[dev-dependencies]
+simple_logger = "0.5"
