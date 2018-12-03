@@ -1,2 +1,3 @@
 # virtio-net_rs
-an ixy-virtio network driver 
+
+Play-project for learning virtio driver development.
